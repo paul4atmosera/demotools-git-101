@@ -6,3 +6,4 @@ to commit, branch, review, and deliberately break.
 
 Training status: ready for Day 1.
 
+It was a complete mess to set up everything
